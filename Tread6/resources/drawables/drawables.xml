@@ -1,0 +1,7 @@
+<drawables>
+	<bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="TreadIcon" filename="tread.png" />
+    <bitmap id="TreadConnectedIcon" filename="greenTread40.png" />
+</drawables>
+
+
